@@ -1,0 +1,29 @@
+    .profile-nav .user-heading {
+        background: #1228cc;
+        color: #fff;
+        border-radius: 4px 4px 0 0;
+        -webkit-border-radius: 4px 4px 0 0;
+        padding: 30px;
+        text-align: center;
+    }
+
+    .profile-nav .user-heading.round a {
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border: 10px solid #5969F3;
+        display: inline-block;
+    }
+
+    .profile-nav .user-heading a img {
+        width: 112px;
+        height: 112px;
+        border-radius: 50%;
+        -webkit-border-radius: 50%;
+    }
+
+    .bio-row {
+        width: 50%;
+        float: left;
+        margin-bottom: 10px;
+        padding: 0 15px;
+    }
